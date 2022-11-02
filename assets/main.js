@@ -34,7 +34,7 @@ async function fetchData(urlApi){
                     </h3>
                 </div>
                 </div>
-            `).reverse().slice(0, 15).join('')};
+            `).slice(0, 35).join('')};
         `;
         console.log('view', view);
     content.innerHTML = view;
